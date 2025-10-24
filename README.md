@@ -2,7 +2,9 @@
 Implementação de três algoritmos e comparação de seus desempenhos.
 
 ➛ Bubble Sort 
+
 ➛ Selection Sort 
+
 ➛ Cocktail Sort
 
 Como métrica de comparação foi levado em consideração a quantidade de iterações e quantidade de trocas.
