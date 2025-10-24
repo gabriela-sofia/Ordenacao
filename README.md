@@ -21,14 +21,19 @@ Como métrica de comparação foi levado em consideração a quantidade de itera
 | Selection Sort                     | 209       | 18     |
 | Cocktail Sort                      | 160       | 78     |
 
-# Ranking (menos trocas)
+# Ranking por Trocas (Eficiência)
 1º Selection Sort — 18
+
 2º Comb Sort — 22
+
 3º Bucket Sort — 22
 
-# Ranking (menos iterações)
+
+# Ranking por Iterações (Desempenho)
 1º Bucket Sort — 106
+
 2º Comb Sort — 138
+
 
 # Melhor desempenho geral: Bucket Sort e Comb Sort.
 
@@ -42,7 +47,7 @@ Vetor 2
 | Selection Sort                     | 209       | 0      |
 | Cocktail Sort                      | 20        | 0      |
 
-Ranking (menos trocas)
+# Ranking (menos trocas)
 Todos empataram (0 trocas).
 
 Ranking (menos iterações)
