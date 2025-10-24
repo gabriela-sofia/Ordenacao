@@ -1,6 +1,7 @@
 # TDE 3 - Ordenação 
 
 Implementação de algoritmos de ordenação. Análise e comparação de seus desempenhos.
+
 Como métrica de comparação foi levado em consideração a quantidade de iterações, quantidade de trocas de elementos e suas mudanças dependendo do tipo de vetor.
 
 
