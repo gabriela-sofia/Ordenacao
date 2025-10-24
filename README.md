@@ -35,7 +35,10 @@ Como métrica de comparação foi levado em consideração a quantidade de itera
 2º Comb Sort — 138
 
 
+
+
 ✦ Melhor desempenho geral: Bucket Sort e Comb Sort.
+
 
 
 # Vetor 2
@@ -60,7 +63,10 @@ Todos empataram (0 trocas).
 3º Cocktail Sort — 20
 
 
+
+
 ✦ Melhor desempenho geral: Gnome Sort, Bubble Sort e Cocktail Sort.
+
 
 
 # Vetor 3
@@ -88,7 +94,11 @@ Todos empataram (0 trocas).
 2º Bucket Sort — 147
 
 
+
+
 ✦ Melhor desempenho geral: Comb Sort.
+
+
 
 
 
