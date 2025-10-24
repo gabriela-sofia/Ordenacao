@@ -35,9 +35,10 @@ Como métrica de comparação foi levado em consideração a quantidade de itera
 2º Comb Sort — 138
 
 
-# Melhor desempenho geral: Bucket Sort e Comb Sort.
+✦ Melhor desempenho geral: Bucket Sort e Comb Sort.
 
-Vetor 2
+
+# Vetor 2
 | Algoritmo                          | Iterações | Trocas |
 | ---------------------------------- | --------- | ------ |
 | Comb Sort                          | 118       | 0      |
@@ -47,17 +48,22 @@ Vetor 2
 | Selection Sort                     | 209       | 0      |
 | Cocktail Sort                      | 20        | 0      |
 
-# Ranking (menos trocas)
+# Ranking por Trocas (Eficiência)
+
 Todos empataram (0 trocas).
 
-Ranking (menos iterações)
+# Ranking por Iterações (Desempenho)
 1º Gnome Sort — 20
-2º Bubble Sort (flag) — 20
+
+2º Bubble Sort — 20
+
 3º Cocktail Sort — 20
 
-Melhor desempenho geral: Gnome Sort, Bubble Sort e Cocktail Sort.
 
-Vetor 3
+✦ Melhor desempenho geral: Gnome Sort, Bubble Sort e Cocktail Sort.
+
+
+# Vetor 3
 | Algoritmo                          | Iterações | Trocas |
 | ---------------------------------- | --------- | ------ |
 | Comb Sort                          | 138       | 18     |
@@ -67,16 +73,23 @@ Vetor 3
 | Selection Sort                     | 209       | 10     |
 | Cocktail Sort                      | 200       | 190    |
 
-Ranking (menos trocas)
+# Ranking por Trocas (Eficiência)
+
 1º Selection Sort — 10
+
 2º Comb Sort — 18
+
 3º Bucket Sort — 63
 
-Ranking (menos iterações)
+# Ranking por Iterações (Desempenho)
+
 1º Comb Sort — 138
+
 2º Bucket Sort — 147
 
-Melhor desempenho geral: Comb Sort.
+
+✦ Melhor desempenho geral: Comb Sort.
+
 
 
 | Vetores         | Melhor algoritmo                   | Razão                               |
