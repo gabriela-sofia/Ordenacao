@@ -1,13 +1,7 @@
-# Ordenação 
-Implementação de três algoritmos e comparação de seus desempenhos.
+# TDE 3 - Ordenação 
 
-➛ Bubble Sort 
-
-➛ Selection Sort 
-
-➛ Cocktail Sort
-
-Como métrica de comparação foi levado em consideração a quantidade de iterações e quantidade de trocas.
+Implementação de algoritmos de ordenação. Análise e comparação de seus desempenhos.
+Como métrica de comparação foi levado em consideração a quantidade de iterações, quantidade de trocas de elementos e suas mudanças dependendo do tipo de vetor.
 
 
 ✦ O programa executa os algoritmos nos três vetores; aleátorio, ordenado e inverso. Cada algoritmo foi implementado em um arquivo individual, no final, ele mostra tabelas com os resultados e rankings de desempenho.
