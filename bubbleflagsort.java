@@ -1,7 +1,7 @@
 public class bubbleflagsort implements sorter {
 
     @Override
-    public String name() { return "bubble sort (flag)"; }
+    public String name() { return "bubble sort"; }
 
     @Override
     public sortmetrics sort(int[] v) {
